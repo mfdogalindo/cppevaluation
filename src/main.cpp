@@ -30,8 +30,6 @@ int line_counter = 0;           //valid and invalid lines counter
  */
 int main(int argc, char** argv) 
 { 
-    ifstream inputfile (argv[1]);
-    ofstream outputfile;
 
     switch (argc){
         case 2:
@@ -59,8 +57,8 @@ int main(int argc, char** argv)
             cout << "Parameters error!" << endl;
             return 1;
     }
-
-    outputfile.open(outfile_name);
+    ifstream inputfile (argv[1]);
+    ofstream (outfile_name);
 
     cout << "Sort method: ";
     if(alg_selected == _GNOME){
