@@ -1,0 +1,62 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="utils_8hpp.html#a8a0fd7a8363e41d8c12a90716f4f500fa262793895c86db9f3de78dfe62d0dafd"><param name="Name" value="_GNOME"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="utils_8hpp.html#a8a0fd7a8363e41d8c12a90716f4f500facefc274069e5c5a254d40bf1d48390dd"><param name="Name" value="_QUICK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a30f154fcfc8802acc72e792298f6d084"><param name="Name" value="alg_selected"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="utils_8hpp.html#ac3a64c4c889eb7b744916da0d1602e64"><param name="Name" value="Algorithm"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="utils_8cpp.html#a2604e1eab9507d7eff153ada78952487"><param name="Name" value="dump"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="utils_8cpp.html#a32e1fc3a9e5b758b61c76d17c120a6de"><param name="Name" value="gnomeSort"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a4be89678a5dc794152da2f925926cefe"><param name="Name" value="line"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a925524169718f00e942617976aa2139a"><param name="Name" value="line_counter"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#ae8cf67afaac82419dc7a4a5b937ebdbc"><param name="Name" value="lines_vector"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="utils_8cpp.html#abad1cd733e739117eaa9dde8e5a57fb0"><param name="Name" value="lineValidator"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="utils_8cpp.html#abad1cd733e739117eaa9dde8e5a57fb0"><param name="Name" value="utils.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="utils_8hpp.html#abad1cd733e739117eaa9dde8e5a57fb0"><param name="Name" value="utils.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html"><param name="Name" value="main.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a30f154fcfc8802acc72e792298f6d084"><param name="Name" value="alg_selected"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a4be89678a5dc794152da2f925926cefe"><param name="Name" value="line"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a925524169718f00e942617976aa2139a"><param name="Name" value="line_counter"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#ae8cf67afaac82419dc7a4a5b937ebdbc"><param name="Name" value="lines_vector"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627"><param name="Name" value="main"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627"><param name="Name" value="main"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="utils_8cpp.html#afdc7e37a5c03e20059ab214a5b17ff08"><param name="Name" value="partition"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="utils_8cpp.html#a78b0052778aa9a5dead4279fab658f18"><param name="Name" value="quickSort"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="utils_8cpp.html#a157349ff9c45e8812a2720e8fb1d0f7e"><param name="Name" value="sortLines"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="utils_8cpp.html#a4ca200e08e302a726af7b82095503543"><param name="Name" value="sortWorker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="utils_8cpp.html#a4ca200e08e302a726af7b82095503543"><param name="Name" value="utils.cpp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="utils_8hpp.html#a4ca200e08e302a726af7b82095503543"><param name="Name" value="utils.hpp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="utils_8cpp.html#a168990949533fdd0f100e4b8b8beb602"><param name="Name" value="split"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="utils_8cpp.html#aa01081fd37e6a58dfb3c503fcb0cc2fe"><param name="Name" value="swapValues"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="utils_8cpp.html"><param name="Name" value="utils.cpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="utils_8cpp.html#a2604e1eab9507d7eff153ada78952487"><param name="Name" value="dump"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="utils_8cpp.html#a32e1fc3a9e5b758b61c76d17c120a6de"><param name="Name" value="gnomeSort"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="utils_8cpp.html#abad1cd733e739117eaa9dde8e5a57fb0"><param name="Name" value="lineValidator"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="utils_8cpp.html#afdc7e37a5c03e20059ab214a5b17ff08"><param name="Name" value="partition"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="utils_8cpp.html#a78b0052778aa9a5dead4279fab658f18"><param name="Name" value="quickSort"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="utils_8cpp.html#a157349ff9c45e8812a2720e8fb1d0f7e"><param name="Name" value="sortLines"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="utils_8cpp.html#a4ca200e08e302a726af7b82095503543"><param name="Name" value="sortWorker"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="utils_8cpp.html#a168990949533fdd0f100e4b8b8beb602"><param name="Name" value="split"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="utils_8cpp.html#aa01081fd37e6a58dfb3c503fcb0cc2fe"><param name="Name" value="swapValues"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="utils_8hpp.html"><param name="Name" value="utils.hpp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="utils_8hpp.html#a8a0fd7a8363e41d8c12a90716f4f500fa262793895c86db9f3de78dfe62d0dafd"><param name="Name" value="_GNOME"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="utils_8hpp.html#a8a0fd7a8363e41d8c12a90716f4f500facefc274069e5c5a254d40bf1d48390dd"><param name="Name" value="_QUICK"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="utils_8hpp.html#ac3a64c4c889eb7b744916da0d1602e64"><param name="Name" value="Algorithm"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="utils_8hpp.html#abad1cd733e739117eaa9dde8e5a57fb0"><param name="Name" value="lineValidator"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="utils_8hpp.html#a4ca200e08e302a726af7b82095503543"><param name="Name" value="sortWorker"></OBJECT>
+  </UL>
+</UL>
+</BODY>
+</HTML>

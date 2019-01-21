@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -DNDEBUG  -rdynamic CMakeFiles/ProducerConsumer.dir/main.cpp.o CMakeFiles/ProducerConsumer.dir/sort.cpp.o  -o ProducerConsumer 

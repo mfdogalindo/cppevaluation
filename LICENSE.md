@@ -1,2 +1,2 @@
 
-Copyright (C) 2019 
+Copyright (C) 2019 Manuel Fernando Galindo Semanate
