@@ -58,7 +58,7 @@ int main(int argc, char** argv)
             return 1;
     }
     ifstream inputfile (argv[1]);
-    ofstream (outfile_name);
+    ofstream outputfile (outfile_name);
 
     cout << "Sort method: ";
     if(alg_selected == _GNOME){
