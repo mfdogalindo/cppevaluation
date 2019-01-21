@@ -1,3 +1,0 @@
-/home/manuel/Documentos/sorting/CMakeFiles/rebuild_cache.dir
-/home/manuel/Documentos/sorting/CMakeFiles/ProducerConsumer.dir
-/home/manuel/Documentos/sorting/CMakeFiles/edit_cache.dir
